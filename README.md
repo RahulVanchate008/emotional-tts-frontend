@@ -1,2 +1,2 @@
 # emotional-tts-frontend
-emotional-tts-frontend using React.js and Material UI
+Emotional-tts-frontend using React.js and Material UI
